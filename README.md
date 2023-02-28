@@ -1,4 +1,4 @@
-# CMU_MLGT
+# CMU MLGT
 Carnegie Mellon University / Advanced Topics in Machine Learning and Game Theory
 
 # Programming Assignment 2
